@@ -34,7 +34,7 @@ from telegram.ext import (
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 BOT_TOKEN  = "8966991623:AAE-tXo583kbsKUrZXcmKrCYikbi2JXcYcE"       # From @BotFather
-WEBAPP_URL = "https://github.com/wariobuturo/hako-prep/player.html"     # e.g. https://yourusername.github.io/hako-prep/player.html
+WEBAPP_URL = "wariobuturo.github.io/hako-prep/player.html"     # e.g. https://yourusername.github.io/hako-prep/player.html
 
 # Path to the 4 enhanced MP3 files (same folder as this script)
 AUDIO_DIR = Path(__file__).parent / "audio"
